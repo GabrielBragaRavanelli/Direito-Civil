@@ -5,5 +5,5 @@ CONTRATO
 - Conceito: 
   - Um acordo de vontades de natureza patrimonial com a finalidade de produzir efeitos jurídicos
 - Natureza jurídica:
-  - O contrato é um negocio jurídico Bilateral
+  - O contrato é um negócio jurídico Bilateral
     - Bilateral: Duas pessoas
