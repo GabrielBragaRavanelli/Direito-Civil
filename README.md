@@ -32,4 +32,11 @@ Espécies
 - Aleatorio por natureza
   - Aleatorio em regra
   - EX: Mega cena, seguro
-- Acidentalmente Aleaotiro
+- Acidentalmente Aleatorio
+  - Poussi diversas espécies
+  - Compra de objeto com risco de exsitencia
+    - O comprador tem o consentimento que o objeto adquirio pode ou não existir
+    - requisitos: Coisa que vira a existir, preço, consentimento e pode ou nçao exitir
+  - Compra de objeto com risco de quantidade
+    - No contrato de compra e venda o comprador tem que ter o consentimento de que pode ou não ter o rsico de quantide do objeto adquirido
+    - requisitos: Coisa que vira a existir, preço, consentimento, risco de quantidade
